@@ -1,8 +1,10 @@
 language: go
 go: "1.12.x"
-script: ./build.sh
+script: env GO111MODULE=on ./build.sh
 
 deploy:
+  edge:
+    branch: v1.8.47
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
