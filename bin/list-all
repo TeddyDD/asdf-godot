@@ -1,0 +1,6 @@
+#!/bin/sh
+set -eu
+
+url=${GODOT_VERSIONS_URL:-"https://asdf-godot.netlify.com/godot-versions.txt"}
+
+curl -sL "$url" | cut -f 1 | uniq | tr '\n' ' '
