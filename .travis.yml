@@ -3,12 +3,11 @@ go: "1.12.x"
 script: env GO111MODULE=on ./build.sh
 
 deploy:
-  edge:
-    branch: v1.8.47
+  edge: true
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep_history: true
-  local_dir: deploy
+  local_dir: ./deploy
   on:
     branch: master
