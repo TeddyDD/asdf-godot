@@ -7,8 +7,6 @@ import (
 	"strings"
 
 	"github.com/gocolly/colly"
-
-	"github.com/hashicorp/go-version"
 )
 
 const domain = "downloads.tuxfamily.org"
