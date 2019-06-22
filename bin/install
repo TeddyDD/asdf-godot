@@ -67,9 +67,11 @@ get_url () {
 install_godot () {
     version="$1"
     url="$(get_url $version)"
-	tmp="$(mktemp -d godot.XXXXXX)"
+	tmp="$(mktemp -d ${TMPDIR:-/tmp}/godot.XXXXXX)"
 	curl "$url" -o "$tmp/archive.zip"
-	unzip "$tmp/archive.zip" -d "$ASDF_INSTALL_PATH"
+	mkdir -p "$ASDF_INSTALL_PATH/bin"
+	unzip "$tmp/archive.zip" -d "$ASDF_INSTALL_PATH/bin"
+	rm -r "$tmp"
 }
 
 [ "$ASDF_INSTALL_TYPE" = "version" ] || die "Ref install type is not supported"
