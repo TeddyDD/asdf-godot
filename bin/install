@@ -14,9 +14,6 @@ get_platform () {
         linux)
             platform="x11"
             ;;
-        darwin)
-            platform="osx"
-            ;;
         *)
             echo "Platform '${platform}' not supported!" >&2
             exit 1
