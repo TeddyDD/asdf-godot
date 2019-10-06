@@ -235,6 +235,12 @@ v3.2-alpha0	Godot_v3.2-alpha0_x11.64.zip	https://downloads.tuxfamily.org/godoten
 v3.2-alpha0_mono	Godot_v3.2-alpha0_mono_osx.64.zip	https://downloads.tuxfamily.org/godotengine/3.2/alpha0-unofficial/mono/Godot_v3.2-alpha0_mono_osx.64.zip
 v3.2-alpha0_mono	Godot_v3.2-alpha0_mono_x11_32.zip	https://downloads.tuxfamily.org/godotengine/3.2/alpha0-unofficial/mono/Godot_v3.2-alpha0_mono_x11_32.zip
 v3.2-alpha0_mono	Godot_v3.2-alpha0_mono_x11_64.zip	https://downloads.tuxfamily.org/godotengine/3.2/alpha0-unofficial/mono/Godot_v3.2-alpha0_mono_x11_64.zip
+v3.2-alpha1	Godot_v3.2-alpha1_osx.64.zip	https://downloads.tuxfamily.org/godotengine/3.2/alpha1/Godot_v3.2-alpha1_osx.64.zip
+v3.2-alpha1	Godot_v3.2-alpha1_x11.32.zip	https://downloads.tuxfamily.org/godotengine/3.2/alpha1/Godot_v3.2-alpha1_x11.32.zip
+v3.2-alpha1	Godot_v3.2-alpha1_x11.64.zip	https://downloads.tuxfamily.org/godotengine/3.2/alpha1/Godot_v3.2-alpha1_x11.64.zip
+v3.2-alpha1_mono	Godot_v3.2-alpha1_mono_osx.64.zip	https://downloads.tuxfamily.org/godotengine/3.2/alpha1/mono/Godot_v3.2-alpha1_mono_osx.64.zip
+v3.2-alpha1_mono	Godot_v3.2-alpha1_mono_x11_32.zip	https://downloads.tuxfamily.org/godotengine/3.2/alpha1/mono/Godot_v3.2-alpha1_mono_x11_32.zip
+v3.2-alpha1_mono	Godot_v3.2-alpha1_mono_x11_64.zip	https://downloads.tuxfamily.org/godotengine/3.2/alpha1/mono/Godot_v3.2-alpha1_mono_x11_64.zip
 v3.2.dev.00aabec8b	Godot_v3.2.dev.00aabec8b_osx.64.zip	https://downloads.tuxfamily.org/godotengine/3.2/dev.00aabec8b/Godot_v3.2.dev.00aabec8b_osx.64.zip
 v3.2.dev.00aabec8b	Godot_v3.2.dev.00aabec8b_x11.32.zip	https://downloads.tuxfamily.org/godotengine/3.2/dev.00aabec8b/Godot_v3.2.dev.00aabec8b_x11.32.zip
 v3.2.dev.00aabec8b	Godot_v3.2.dev.00aabec8b_x11.64.zip	https://downloads.tuxfamily.org/godotengine/3.2/dev.00aabec8b/Godot_v3.2.dev.00aabec8b_x11.64.zip
