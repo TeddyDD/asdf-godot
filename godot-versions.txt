@@ -279,3 +279,6 @@ v3.2-beta2	Godot_v3.2-beta2_x11.64.zip	https://downloads.tuxfamily.org/godotengi
 v3.2-beta2_mono	Godot_v3.2-beta2_mono_osx_64.zip	https://downloads.tuxfamily.org/godotengine/3.2/beta2/mono/Godot_v3.2-beta2_mono_osx_64.zip
 v3.2-beta2_mono	Godot_v3.2-beta2_mono_x11_32.zip	https://downloads.tuxfamily.org/godotengine/3.2/beta2/mono/Godot_v3.2-beta2_mono_x11_32.zip
 v3.2-beta2_mono	Godot_v3.2-beta2_mono_x11_64.zip	https://downloads.tuxfamily.org/godotengine/3.2/beta2/mono/Godot_v3.2-beta2_mono_x11_64.zip
+v3.2-beta3	Godot_v3.2-beta3_osx.64.zip	https://downloads.tuxfamily.org/godotengine/3.2/beta3/Godot_v3.2-beta3_osx.64.zip
+v3.2-beta3	Godot_v3.2-beta3_x11.32.zip	https://downloads.tuxfamily.org/godotengine/3.2/beta3/Godot_v3.2-beta3_x11.32.zip
+v3.2-beta3	Godot_v3.2-beta3_x11.64.zip	https://downloads.tuxfamily.org/godotengine/3.2/beta3/Godot_v3.2-beta3_x11.64.zip
