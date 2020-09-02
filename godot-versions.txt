@@ -448,9 +448,15 @@ v3.2.3-rc4	Godot_v3.2.3-rc4_x11.64.zip	https://downloads.tuxfamily.org/godotengi
 v3.2.3-rc4_mono	Godot_v3.2.3-rc4_mono_osx.64.zip	https://downloads.tuxfamily.org/godotengine/3.2.3/rc4/mono/Godot_v3.2.3-rc4_mono_osx.64.zip
 v3.2.3-rc4_mono	Godot_v3.2.3-rc4_mono_x11_32.zip	https://downloads.tuxfamily.org/godotengine/3.2.3/rc4/mono/Godot_v3.2.3-rc4_mono_x11_32.zip
 v3.2.3-rc4_mono	Godot_v3.2.3-rc4_mono_x11_64.zip	https://downloads.tuxfamily.org/godotengine/3.2.3/rc4/mono/Godot_v3.2.3-rc4_mono_x11_64.zip
+v3.2.3-rc5	Godot_v3.2.3-rc5_osx.64.zip	https://downloads.tuxfamily.org/godotengine/3.2.3/rc5/Godot_v3.2.3-rc5_osx.64.zip
+v3.2.3-rc5	Godot_v3.2.3-rc5_x11.32.zip	https://downloads.tuxfamily.org/godotengine/3.2.3/rc5/Godot_v3.2.3-rc5_x11.32.zip
+v3.2.3-rc5	Godot_v3.2.3-rc5_x11.64.zip	https://downloads.tuxfamily.org/godotengine/3.2.3/rc5/Godot_v3.2.3-rc5_x11.64.zip
+v3.2.3-rc5_mono	Godot_v3.2.3-rc5_mono_osx.64.zip	https://downloads.tuxfamily.org/godotengine/3.2.3/rc5/mono/Godot_v3.2.3-rc5_mono_osx.64.zip
 v3.2.3-rc5_mono	Godot_v3.2.3-rc5_mono_osx.64.zip	https://downloads.tuxfamily.org/godotengine/testing/3.2.3-pre-rc5-mono-2/Godot_v3.2.3-rc5_mono_osx.64.zip
 v3.2.3-rc5_mono	Godot_v3.2.3-rc5_mono_osx.64.zip	https://downloads.tuxfamily.org/godotengine/testing/3.2.3-pre-rc5-mono/Godot_v3.2.3-rc5_mono_osx.64.zip
+v3.2.3-rc5_mono	Godot_v3.2.3-rc5_mono_x11_32.zip	https://downloads.tuxfamily.org/godotengine/3.2.3/rc5/mono/Godot_v3.2.3-rc5_mono_x11_32.zip
 v3.2.3-rc5_mono	Godot_v3.2.3-rc5_mono_x11_32.zip	https://downloads.tuxfamily.org/godotengine/testing/3.2.3-pre-rc5-mono-2/Godot_v3.2.3-rc5_mono_x11_32.zip
 v3.2.3-rc5_mono	Godot_v3.2.3-rc5_mono_x11_32.zip	https://downloads.tuxfamily.org/godotengine/testing/3.2.3-pre-rc5-mono/Godot_v3.2.3-rc5_mono_x11_32.zip
+v3.2.3-rc5_mono	Godot_v3.2.3-rc5_mono_x11_64.zip	https://downloads.tuxfamily.org/godotengine/3.2.3/rc5/mono/Godot_v3.2.3-rc5_mono_x11_64.zip
 v3.2.3-rc5_mono	Godot_v3.2.3-rc5_mono_x11_64.zip	https://downloads.tuxfamily.org/godotengine/testing/3.2.3-pre-rc5-mono-2/Godot_v3.2.3-rc5_mono_x11_64.zip
 v3.2.3-rc5_mono	Godot_v3.2.3-rc5_mono_x11_64.zip	https://downloads.tuxfamily.org/godotengine/testing/3.2.3-pre-rc5-mono/Godot_v3.2.3-rc5_mono_x11_64.zip
