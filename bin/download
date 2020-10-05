@@ -6,4 +6,4 @@ set -eu
 . "$(dirname "$0")/../lib/utils.sh"
 
 [ "$ASDF_INSTALL_TYPE" = "version" ] || die "Ref install type is not supported"
-install_godot "$ASDF_INSTALL_VERSION"
+download_godot "$ASDF_INSTALL_VERSION"
