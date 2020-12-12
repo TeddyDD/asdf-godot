@@ -494,3 +494,9 @@ v3.2.4-beta3	Godot_v3.2.4-beta3_x11.64.zip	https://downloads.tuxfamily.org/godot
 v3.2.4-beta3_mono	Godot_v3.2.4-beta3_mono_osx.64.zip	https://downloads.tuxfamily.org/godotengine/3.2.4/beta3/mono/Godot_v3.2.4-beta3_mono_osx.64.zip
 v3.2.4-beta3_mono	Godot_v3.2.4-beta3_mono_x11_32.zip	https://downloads.tuxfamily.org/godotengine/3.2.4/beta3/mono/Godot_v3.2.4-beta3_mono_x11_32.zip
 v3.2.4-beta3_mono	Godot_v3.2.4-beta3_mono_x11_64.zip	https://downloads.tuxfamily.org/godotengine/3.2.4/beta3/mono/Godot_v3.2.4-beta3_mono_x11_64.zip
+v3.2.4-beta4	Godot_v3.2.4-beta4_osx.universal.zip	https://downloads.tuxfamily.org/godotengine/3.2.4/beta4/Godot_v3.2.4-beta4_osx.universal.zip
+v3.2.4-beta4	Godot_v3.2.4-beta4_x11.32.zip	https://downloads.tuxfamily.org/godotengine/3.2.4/beta4/Godot_v3.2.4-beta4_x11.32.zip
+v3.2.4-beta4	Godot_v3.2.4-beta4_x11.64.zip	https://downloads.tuxfamily.org/godotengine/3.2.4/beta4/Godot_v3.2.4-beta4_x11.64.zip
+v3.2.4-beta4_mono	Godot_v3.2.4-beta4_mono_osx.64.zip	https://downloads.tuxfamily.org/godotengine/3.2.4/beta4/mono/Godot_v3.2.4-beta4_mono_osx.64.zip
+v3.2.4-beta4_mono	Godot_v3.2.4-beta4_mono_x11_32.zip	https://downloads.tuxfamily.org/godotengine/3.2.4/beta4/mono/Godot_v3.2.4-beta4_mono_x11_32.zip
+v3.2.4-beta4_mono	Godot_v3.2.4-beta4_mono_x11_64.zip	https://downloads.tuxfamily.org/godotengine/3.2.4/beta4/mono/Godot_v3.2.4-beta4_mono_x11_64.zip
