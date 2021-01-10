@@ -503,6 +503,12 @@ v3.2.4-beta4_mono	Godot_v3.2.4-beta4_mono_x11_64.zip	https://downloads.tuxfamily
 v3.2.4-beta5	Godot_v3.2.4-beta5_osx.universal.zip	https://downloads.tuxfamily.org/godotengine/3.2.4/beta5/Godot_v3.2.4-beta5_osx.universal.zip
 v3.2.4-beta5	Godot_v3.2.4-beta5_x11.32.zip	https://downloads.tuxfamily.org/godotengine/3.2.4/beta5/Godot_v3.2.4-beta5_x11.32.zip
 v3.2.4-beta5	Godot_v3.2.4-beta5_x11.64.zip	https://downloads.tuxfamily.org/godotengine/3.2.4/beta5/Godot_v3.2.4-beta5_x11.64.zip
+v3.2.4-beta5+lightmapper	Godot_v3.2.4-beta5+lightmapper_osx.universal.zip	https://downloads.tuxfamily.org/godotengine/testing/3.2.4-beta5+lightmapper/Godot_v3.2.4-beta5+lightmapper_osx.universal.zip
+v3.2.4-beta5+lightmapper	Godot_v3.2.4-beta5+lightmapper_x11.32.zip	https://downloads.tuxfamily.org/godotengine/testing/3.2.4-beta5+lightmapper/Godot_v3.2.4-beta5+lightmapper_x11.32.zip
+v3.2.4-beta5+lightmapper	Godot_v3.2.4-beta5+lightmapper_x11.64.zip	https://downloads.tuxfamily.org/godotengine/testing/3.2.4-beta5+lightmapper/Godot_v3.2.4-beta5+lightmapper_x11.64.zip
+v3.2.4-beta5+lightmapper_mono	Godot_v3.2.4-beta5+lightmapper_mono_osx.64.zip	https://downloads.tuxfamily.org/godotengine/testing/3.2.4-beta5+lightmapper/mono/Godot_v3.2.4-beta5+lightmapper_mono_osx.64.zip
+v3.2.4-beta5+lightmapper_mono	Godot_v3.2.4-beta5+lightmapper_mono_x11_32.zip	https://downloads.tuxfamily.org/godotengine/testing/3.2.4-beta5+lightmapper/mono/Godot_v3.2.4-beta5+lightmapper_mono_x11_32.zip
+v3.2.4-beta5+lightmapper_mono	Godot_v3.2.4-beta5+lightmapper_mono_x11_64.zip	https://downloads.tuxfamily.org/godotengine/testing/3.2.4-beta5+lightmapper/mono/Godot_v3.2.4-beta5+lightmapper_mono_x11_64.zip
 v3.2.4-beta5_mono	Godot_v3.2.4-beta5_mono_osx.64.zip	https://downloads.tuxfamily.org/godotengine/3.2.4/beta5/mono/Godot_v3.2.4-beta5_mono_osx.64.zip
 v3.2.4-beta5_mono	Godot_v3.2.4-beta5_mono_x11_32.zip	https://downloads.tuxfamily.org/godotengine/3.2.4/beta5/mono/Godot_v3.2.4-beta5_mono_x11_32.zip
 v3.2.4-beta5_mono	Godot_v3.2.4-beta5_mono_x11_64.zip	https://downloads.tuxfamily.org/godotengine/3.2.4/beta5/mono/Godot_v3.2.4-beta5_mono_x11_64.zip
