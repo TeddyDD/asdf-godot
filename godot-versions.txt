@@ -595,3 +595,10 @@ v3.3-rc9_mono	Godot_v3.3-rc9_mono_osx.64.zip	https://downloads.tuxfamily.org/god
 v3.3-rc9_mono	Godot_v3.3-rc9_mono_x11_32.zip	https://downloads.tuxfamily.org/godotengine/3.3/rc9/mono/Godot_v3.3-rc9_mono_x11_32.zip
 v3.3-rc9_mono	Godot_v3.3-rc9_mono_x11_64.zip	https://downloads.tuxfamily.org/godotengine/3.3/rc9/mono/Godot_v3.3-rc9_mono_x11_64.zip
 v3.3-rc-ab4c7360_mono	Godot_v3.3-rc-ab4c7360_mono_x11_64.zip	https://downloads.tuxfamily.org/godotengine/testing/Godot_v3.3-rc-ab4c7360_mono_x11_64.zip
+v3.3-rc.d91b780	Godot_v3.3-rc.d91b780_x11.64.zip	https://downloads.tuxfamily.org/godotengine/testing/Godot_v3.3-rc.d91b780_x11.64.zip
+v3.3-stable	Godot_v3.3-stable_osx.universal.zip	https://downloads.tuxfamily.org/godotengine/3.3/Godot_v3.3-stable_osx.universal.zip
+v3.3-stable	Godot_v3.3-stable_x11.32.zip	https://downloads.tuxfamily.org/godotengine/3.3/Godot_v3.3-stable_x11.32.zip
+v3.3-stable	Godot_v3.3-stable_x11.64.zip	https://downloads.tuxfamily.org/godotengine/3.3/Godot_v3.3-stable_x11.64.zip
+v3.3-stable_mono	Godot_v3.3-stable_mono_osx.64.zip	https://downloads.tuxfamily.org/godotengine/3.3/mono/Godot_v3.3-stable_mono_osx.64.zip
+v3.3-stable_mono	Godot_v3.3-stable_mono_x11_32.zip	https://downloads.tuxfamily.org/godotengine/3.3/mono/Godot_v3.3-stable_mono_x11_32.zip
+v3.3-stable_mono	Godot_v3.3-stable_mono_x11_64.zip	https://downloads.tuxfamily.org/godotengine/3.3/mono/Godot_v3.3-stable_mono_x11_64.zip
