@@ -623,6 +623,12 @@ v3.3.1-stable	Godot_v3.3.1-stable_x11.64.zip	https://downloads.tuxfamily.org/god
 v3.3.1-stable_mono	Godot_v3.3.1-stable_mono_osx.64.zip	https://downloads.tuxfamily.org/godotengine/3.3.1/mono/Godot_v3.3.1-stable_mono_osx.64.zip
 v3.3.1-stable_mono	Godot_v3.3.1-stable_mono_x11_32.zip	https://downloads.tuxfamily.org/godotengine/3.3.1/mono/Godot_v3.3.1-stable_mono_x11_32.zip
 v3.3.1-stable_mono	Godot_v3.3.1-stable_mono_x11_64.zip	https://downloads.tuxfamily.org/godotengine/3.3.1/mono/Godot_v3.3.1-stable_mono_x11_64.zip
+v3.3.2-stable	Godot_v3.3.2-stable_osx.universal.zip	https://downloads.tuxfamily.org/godotengine/3.3.2/Godot_v3.3.2-stable_osx.universal.zip
+v3.3.2-stable	Godot_v3.3.2-stable_x11.32.zip	https://downloads.tuxfamily.org/godotengine/3.3.2/Godot_v3.3.2-stable_x11.32.zip
+v3.3.2-stable	Godot_v3.3.2-stable_x11.64.zip	https://downloads.tuxfamily.org/godotengine/3.3.2/Godot_v3.3.2-stable_x11.64.zip
+v3.3.2-stable_mono	Godot_v3.3.2-stable_mono_osx.64.zip	https://downloads.tuxfamily.org/godotengine/3.3.2/mono/Godot_v3.3.2-stable_mono_osx.64.zip
+v3.3.2-stable_mono	Godot_v3.3.2-stable_mono_x11_32.zip	https://downloads.tuxfamily.org/godotengine/3.3.2/mono/Godot_v3.3.2-stable_mono_x11_32.zip
+v3.3.2-stable_mono	Godot_v3.3.2-stable_mono_x11_64.zip	https://downloads.tuxfamily.org/godotengine/3.3.2/mono/Godot_v3.3.2-stable_mono_x11_64.zip
 v3.4-beta-embree3.13.0	Godot_v3.4-beta-embree3.13.0_osx.universal.zip	https://downloads.tuxfamily.org/godotengine/testing/3.4-beta-embree3.13.0/Godot_v3.4-beta-embree3.13.0_osx.universal.zip
 v3.4-beta-embree3.13.0	Godot_v3.4-beta-embree3.13.0_x11.32.zip	https://downloads.tuxfamily.org/godotengine/testing/3.4-beta-embree3.13.0/Godot_v3.4-beta-embree3.13.0_x11.32.zip
 v3.4-beta-embree3.13.0	Godot_v3.4-beta-embree3.13.0_x11.64.zip	https://downloads.tuxfamily.org/godotengine/testing/3.4-beta-embree3.13.0/Godot_v3.4-beta-embree3.13.0_x11.64.zip
